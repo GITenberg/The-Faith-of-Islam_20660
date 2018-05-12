@@ -1,0 +1,28 @@
+_repo: The-Faith-of-Islam_20660
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sell, Edward
+    alias: Sell, Charles Edward
+    birthdate: 1839
+    deathdate: 1932
+    gutenberg_agent_id: '9444'
+    url: http://www.gutenberg.org/2009/agents/9444
+description: ''
+gutenberg_bookshelf: Islam
+gutenberg_issued: '2007-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20660'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Islam'
+- !lcc 'BP'
+title: The Faith of Islam
+url: http://www.gutenberg.org/ebooks/20660
