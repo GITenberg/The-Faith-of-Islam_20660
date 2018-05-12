@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9444'
     url: http://www.gutenberg.org/2009/agents/9444
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20660#The-Faith-of-Islam
 gutenberg_bookshelf: Islam
 gutenberg_issued: '2007-02-24'
 gutenberg_type: Text
